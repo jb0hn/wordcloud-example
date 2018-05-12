@@ -1,8 +1,7 @@
-# wordcloud-example
-Exemplar program for creating wordcloud.
+# wordcloud-wikipedia
+Simple program to create word clouds from Wikipedia articles.
 
-## What is a wordcloud?
-
+## What is a word cloud?
 An image composed of words used in a particular text or subject, in which the size of each word indicates its frequency or importance.
 
 ## Installation
@@ -13,7 +12,7 @@ Install [wordcloud](https://github.com/amueller/word_cloud) using a simple pip c
 pip install wordcloud
 ```
 
-**wikipedia** library is used for extracting wikipedia articles on any given topic. Install it using this pip command:
+**wikipedia** library is used for extracting Wikipedia articles on any given topic. Install it using this pip command:
 ```
 pip install wikipedia
 ```
@@ -22,15 +21,18 @@ pip install wikipedia
 Run python script as:
 
 ```
-python mywc.py <query>
+python word_cloud.py
 ```
 
 For example:
 
 ```
-python mywc.py india
+python word_cloud.py
+
+How do you want to name your cloud: python
+What topic on Wikipedia are you looking for: python
 ```
 
-will create wordcloud for the topic 'india' which looks like this:
+will create word cloud for the topic 'python' which looks like this:
 
-![](https://raw.githubusercontent.com/nikhilkumarsingh/wordcloud-example/master/wc.png)
+![](https://raw.githubusercontent.com/jb0hn/wordcloud-example/master/python.png)
