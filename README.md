@@ -11,7 +11,7 @@ https://repl.it/@jb0hn/wordcloud-wikipedia
 2. After being redirected to the Repl.it website, make sure that "main.py" file is open and then click green button "Run" in the top bar of the page.
 
 
-## Installation
+## Local Installation
 
 Install [wordcloud](https://github.com/amueller/word_cloud) using a simple pip command.
 
