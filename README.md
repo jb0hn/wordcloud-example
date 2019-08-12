@@ -4,6 +4,13 @@ Simple program to create word clouds from Wikipedia articles.
 ## What is a word cloud?
 An image composed of words used in a particular text or subject, in which the size of each word indicates its frequency or importance.
 
+## Quick run in the browser
+1. Cick in the link:
+https://repl.it/@jb0hn/wordcloud-wikipedia
+
+2. After being redirected to the Repl.it website, make sure that "main.py" file is open and then click green button "Run" in the top bar of the page.
+
+
 ## Installation
 
 Install [wordcloud](https://github.com/amueller/word_cloud) using a simple pip command.
